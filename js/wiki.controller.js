@@ -2,7 +2,7 @@
 
 function onInit() {
     onGetVideos()
-    gSongs = loadFromStorage(STORAGE_KEY) || []
+
 
 }
 
